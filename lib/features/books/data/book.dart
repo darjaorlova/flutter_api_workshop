@@ -1,6 +1,3 @@
-import 'package:flutter_api_workshop/features/books/data/book_response.dart';
-import 'package:flutter_api_workshop/features/books/data/fave_book_response.dart';
-
 class Book {
   final String id;
   final String title;
@@ -30,51 +27,6 @@ class Book {
     required this.faveId,
   });
 
-  factory Book.fromResponse(BookResponse response) {
-    final volumeInfo = response.volumeInfo!;
-    final imagesLinks = volumeInfo.imageLinks;
-    final coverImageUrl = imagesLinks?.large ??
-        imagesLinks?.medium ??
-        imagesLinks?.thumbnail ??
-        imagesLinks?.smallThumbnail ??
-        '';
-    final coverThumbnailUrl =
-        imagesLinks?.thumbnail ?? imagesLinks?.smallThumbnail ?? '';
-    final releaseYear = volumeInfo.publishedDate?.substring(0, 4) ?? '?';
-    return Book(
-      id: response.id ?? '',
-      title: volumeInfo.title ?? '',
-      subtitle: volumeInfo.subtitle ?? '',
-      description: volumeInfo.description ?? '',
-      authors: _toAuthorString(volumeInfo.authors),
-      coverImageUrl: coverImageUrl,
-      coverThumbnailUrl: coverThumbnailUrl,
-      pageCount: volumeInfo.pageCount ?? 0,
-      ratingCount: volumeInfo.ratingsCount ?? 0,
-      averageRating: volumeInfo.averageRating?.toInt() ?? 0,
-      releaseYear: releaseYear,
-      faveId: null,
-    );
-  }
-
-  factory Book.fromFaveResponse(FaveBookResponse response) {
-    final data = response.data;
-    return Book(
-      id: data.id,
-      title: data.title,
-      subtitle: data.subtitle,
-      description: data.description,
-      authors: data.authors,
-      coverImageUrl: data.coverImageUrl,
-      coverThumbnailUrl: data.coverThumbnailUrl,
-      pageCount: data.pageCount,
-      ratingCount: data.ratingCount,
-      averageRating: data.averageRating,
-      releaseYear: data.releaseYear,
-      faveId: response.id,
-    );
-  }
-
   Book copyWith({
     String? id,
     String? title,
@@ -103,11 +55,5 @@ class Book {
       releaseYear: releaseYear ?? this.releaseYear,
       faveId: faveId ?? this.faveId,
     );
-  }
-
-  static String _toAuthorString(List<String>? authors) {
-    if (authors == null) return '';
-    return authors.skip(1).fold(
-        authors.first, (previousValue, value) => '$previousValue, $value');
   }
 }
