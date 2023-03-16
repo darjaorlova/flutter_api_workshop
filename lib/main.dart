@@ -1,12 +1,18 @@
+import 'dart:convert';
+
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_api_workshop/features/books/data/books_api_client.dart';
 import 'package:flutter_api_workshop/features/books/data/books_repository.dart';
 import 'package:flutter_api_workshop/features/books/data/faves_api_client.dart';
+import 'package:flutter_api_workshop/features/books/data/local_json_books_repository.dart';
 import 'package:flutter_api_workshop/features/books/data/network_books_repository.dart';
 import 'package:flutter_api_workshop/features/books/presentation/books_page.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+
   final booksDio = Dio(
     BaseOptions(
       baseUrl: 'https://www.googleapis.com/books/v1/',
@@ -30,9 +36,15 @@ void main() {
     favesApiClient,
   );
 
+  final booksJson = json.decode(
+    await rootBundle.loadString('assets/data/books.json'),
+  );
+
+  final localJsonBooksRepository = LocalJsonBooksRepository(booksJson);
+
   runApp(
     BooksApp(
-      booksRepository: booksRepository,
+      booksRepository: localJsonBooksRepository,
     ),
   );
 }
