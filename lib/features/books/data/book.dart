@@ -1,3 +1,5 @@
+import 'package:flutter_api_workshop/features/books/data/book_response.dart';
+
 class Book {
   final String id;
   final String title;
@@ -26,6 +28,39 @@ class Book {
     required this.releaseYear,
     required this.faveId,
   });
+
+  factory Book.fromResponse(BookResponse response) {
+    final volumeInfo = response.volumeInfo!;
+    final imagesLinks = volumeInfo.imageLinks;
+    final coverImageUrl = imagesLinks?.large ??
+        imagesLinks?.medium ??
+        imagesLinks?.thumbnail ??
+        imagesLinks?.smallThumbnail ??
+        '';
+    final coverThumbnailUrl =
+        imagesLinks?.thumbnail ?? imagesLinks?.smallThumbnail ?? '';
+    final releaseYear = volumeInfo.publishedDate?.substring(0, 4) ?? '?';
+    return Book(
+      id: response.id ?? '',
+      title: volumeInfo.title ?? '',
+      subtitle: volumeInfo.subtitle ?? '',
+      description: volumeInfo.description ?? '',
+      authors: _toAuthorString(volumeInfo.authors),
+      coverImageUrl: coverImageUrl,
+      coverThumbnailUrl: coverThumbnailUrl,
+      pageCount: volumeInfo.pageCount ?? 0,
+      ratingCount: volumeInfo.ratingsCount ?? 0,
+      averageRating: volumeInfo.averageRating?.toInt() ?? 0,
+      releaseYear: releaseYear,
+      faveId: null,
+    );
+  }
+
+  static String _toAuthorString(List<String>? authors) {
+    if (authors == null) return '';
+    return authors.skip(1).fold(
+        authors.first, (previousValue, value) => '$previousValue, $value');
+  }
 
   Book copyWith({
     String? id,

@@ -23,6 +23,11 @@ class InMemoryBooksRepository implements BooksRepository {
   ];
 
   @override
+  Future<List<Book>> getBooks({String query = ''}) async {
+    return _books;
+  }
+
+  @override
   Future<void> addBookToFaves(Book book) {
     // TODO: implement addBookToFaves
     throw UnimplementedError();
@@ -31,11 +36,6 @@ class InMemoryBooksRepository implements BooksRepository {
   @override
   Future<Book> getBook(String id) async {
     return _books.firstWhere((book) => book.id == id);
-  }
-
-  @override
-  Future<List<Book>> getBooks({String query = ''}) async {
-    return _books;
   }
 
   @override

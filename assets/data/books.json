@@ -1,0 +1,864 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 466,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "NODES6H1GJoC",
+      "etag": "v5CHUNUkeko",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NODES6H1GJoC",
+      "volumeInfo": {
+        "title": "Marina",
+        "authors": [
+          "Carlos Ruiz Zafon"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2013-09-26",
+        "description": "'Fifteen years on, the remembrance of that day has returned to me. I have seen that boy wandering through the mist of the railway station, and the name of Marina has flared up again like a fresh wound. We all have a secret buried under lock and key in the attic of our soul. This is mine...' In May 1980, 15-year-old Óscar Drai suddenly vanishes from his boarding school in the old quarter of Barcelona. For seven days and nights no one knows his whereabouts... His story begins in the heart of old Barcelona, when he meets Marina and her father German Blau, a portrait painter. Marina takes Óscar to a cemetery to watch a macabre ritual that occurs on the fourth Sunday of each month. At 10 a.m. precisely a coach pulled by black horses appears. From it descends a woman dressed in black, her face shrouded, wearing gloves, holding a single rose. She walks over to a gravestone that bears no name, only the mysterious emblem of a black butterfly with open wings. When Óscar and Marina decide to follow her they begin a journey that will take them to the heights of a forgotten, post-war Barcelona, a world of aristocrats and actresses, inventors and tycoons; and a dark secret that lies waiting in the mysterious labyrinth beneath the city streets. Carlos Ruiz Zafón was born in Barcelona and is the author of seven novels including THE SHADOW OF THE WIND. He is one of the world's most read and best-loved writers. His work has been translated into more than 40 languages and published around the world, garnering numerous international prizes and reaching millions of readers. He divides his time between Barcelona and Los Angeles.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780297857440"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0297857444"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 49,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NODES6H1GJoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NODES6H1GJoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.lv/books?id=NODES6H1GJoC&printsec=frontcover&dq=zafon&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=NODES6H1GJoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NODES6H1GJoC"
+      },
+      "saleInfo": {
+        "country": "LV",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.49,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 5.49,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=NODES6H1GJoC&rdid=book-NODES6H1GJoC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5490000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 5490000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "LV",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.lv/books/download/Marina-sample-epub.acsm?id=NODES6H1GJoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NODES6H1GJoC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "I have seen that boy wandering through the mist of the railway station, and the name of Marina has flared up again like a fresh wound. We all have a secret buried under lock and key in the attic of our soul. This is mine."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_JIfEAAAQBAJ",
+      "etag": "huyXXIlYSN8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_JIfEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The City of Mist",
+        "subtitle": "Stories",
+        "authors": [
+          "Carlos Ruiz Zafon"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2021-11-23",
+        "description": "“Ruiz Zafón’s visionary storytelling prowess is a genre unto itself.”—USA Today Return to the mythical Barcelona library known as the Cemetery of Forgotten Books in this posthumous collection of stories from the New York Times bestselling author of The Shadow of the Wind and The Labyrinth of the Spirits. Bestselling author Carlos Ruiz Zafón conceived of this collection of stories as an appreciation to the countless readers who joined him on the extraordinary journey that began with The Shadow of the Wind. Comprising eleven stories, most of them never before published in English, The City of Mist offers the reader compelling characters, unique situations, and a gothic atmosphere reminiscent of his beloved Cemetery of Forgotten Books quartet. The stories are mysterious, imbued with a sense of menace, and told with the warmth, wit, and humor of Zafón's inimitable voice. A boy decides to become a writer when he discovers that his creative gifts capture the attentions of an aloof young beauty who has stolen his heart. A labyrinth maker flees Constantinople to a plague-ridden Barcelona, with plans for building a library impervious to the destruction of time. A strange gentleman tempts Cervantes to write a book like no other, each page of which could prolong the life of the woman he loves. And a brilliant Catalan architect named Antoni Gaudí reluctantly agrees to cross the ocean to New York, a voyage that will determine the fate of an unfinished masterpiece. Imaginative and beguiling, these and other stories in The City of Mist summon up the mesmerizing magic of their brilliant creator and invite us to come dream along with him.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780063118102"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0063118106"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_JIfEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_JIfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.lv/books?id=_JIfEAAAQBAJ&printsec=frontcover&dq=zafon&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_JIfEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_JIfEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "LV",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.92,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 9.3,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_JIfEAAAQBAJ&rdid=book-_JIfEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12920000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 9300000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "LV",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.lv/books/download/The_City_of_Mist-sample-epub.acsm?id=_JIfEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_JIfEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Imaginative and beguiling, these and other stories in The City of Mist summon up the mesmerizing magic of their brilliant creator and invite us to come dream along with him."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Dx9xDwAAQBAJ",
+      "etag": "Dc4670mxWHk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Dx9xDwAAQBAJ",
+      "volumeInfo": {
+        "title": "God versus Gods",
+        "subtitle": "Judaism in the Age of Idolatry",
+        "authors": [
+          "Reuven Chaim Klein"
+        ],
+        "publisher": "Mosaica Press",
+        "publishedDate": "2018-11-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781946351463"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1946351466"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 398,
+        "printType": "BOOK",
+        "categories": [
+          "Religion"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Dx9xDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Dx9xDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.lv/books?id=Dx9xDwAAQBAJ&pg=PA306&dq=zafon&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.lv/books?id=Dx9xDwAAQBAJ&dq=zafon&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/God_versus_Gods.html?hl=&id=Dx9xDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "LV",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "LV",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.lv/books/download/God_versus_Gods-sample-pdf.acsm?id=Dx9xDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Dx9xDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "the Jews and illogically charge towards the Red Sea, thinking that Baal <b>Zafon</b> would aid them.194 • Rabbeinu Bachya adds that indeed, when the Jews were trapped between the oncoming Egyptian army and the Red Sea, Pharaoh remarked that&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7wJwDwAAQBAJ",
+      "etag": "YSjRzJb1SHo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7wJwDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Marina",
+        "authors": [
+          "Carlos Ruiz Zafón"
+        ],
+        "publisher": "Vintage Espanol",
+        "publishedDate": "2015-03-17",
+        "description": "En la Barcelona de 1980 Óscar Drai sueña despierto, deslumbrado por los palacetes modernistas cercanos al internado en el que estudia. En una de sus escapadas conoce a Marina, una chica delicada de salud. Ella lo lleva a un cementerio donde son testigos de un macabro ritual que sucede sin falta el último domingo de cada mes sin falta. A las diez de la maǹana una mujer vestida de negro descíende de su carroza y deja una sola rosa sobre un panteón sin nombre. Cuando deciden seguirla, juntos comparten la aventura de adentrarse en un enigma doloroso del pasado de la ciudad. Un misterioso personaje de la posguerra se propuso el mayor desafío imaginable, pero su ambición lo arrastró por sendas siniestras cuyas consecuencias debe pagar alguien todavía hoy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781101910580"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1101910585"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 306,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7wJwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7wJwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.lv/books?id=7wJwDwAAQBAJ&dq=zafon&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.lv/books?id=7wJwDwAAQBAJ&dq=zafon&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Marina.html?hl=&id=7wJwDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "LV",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "LV",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7wJwDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En la Barcelona de 1980 Óscar Drai sueña despierto, deslumbrado por los palacetes modernistas cercanos al internado en el que estudia. En una de sus escapadas conoce a Marina, una chica delicada de salud."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Rr5-BwAAQBAJ",
+      "etag": "/f+kFl7VtOc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Rr5-BwAAQBAJ",
+      "volumeInfo": {
+        "title": "Quicklet on Carlos Ruiz Zafón's The Shadow of the Wind",
+        "authors": [
+          "Luke Trayser"
+        ],
+        "publisher": "Hyperink Inc",
+        "publishedDate": "2011-12-31",
+        "description": "ABOUT THE BOOK If you'll allow me an immediate personal tangent, I feel obligated to tell you my favorite book of all time is 100 Years of Solitude by Gabriel Garcia Marquez. I read it in high school and came away shocked at how deeply I connected with a genre as fantastical as magical realism. Reading The Shadow of the Wind conjured memories of my first experience with 100 Years of Solitude. Both stories span generations and have a dizzying amount of characters, most of whom never meet, but all of whom are mysteriously connected by a powerful force. MEET THE AUTHOR Luke stole an English degree from the University of Illinois at Urbana-Champaign. He has been a blogger for nearly a decade and a digital editor at an ad agency for three years. Luke enjoys playing sports, reading, listening to music, trying to play songs he likes on the guitar, quickly giving up on that and playing video games, and spending quality time with his wife. Facebook: /ltrayser Twitter: @ltrayser EXCERPT FROM THE BOOK It's easy to imagine little Daniel, wide-eyed and silent, taking in the book-filled labyrinth of impossible geometry and nodding in response to his dad's question. His father lets him in on one of the Cemetery's traditions: first-time visitors choose a book. Once Daniel chooses, it will be his duty to make sure that as long as he's alive, his book is as well.He chooses The Shadow of the Wind by Julian Carax. He knows nothing about the book or its author, but that doesn't matter. The boy couldn't shake the feeling that it was waiting for him, and for more than 10 years. In the coming pages, Daniel's life will be in danger because of The Shadow of the Wind, so it's paramount that we are fully on board with the notion that he'd put himself in harm's way to preserve words on a page.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781614647805"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1614647801"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": [
+          "Study Aids"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Rr5-BwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Rr5-BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.lv/books?id=Rr5-BwAAQBAJ&pg=PT4&dq=zafon&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.lv/books?id=Rr5-BwAAQBAJ&dq=zafon&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Quicklet_on_Carlos_Ruiz_Zaf%C3%B3n_s_The_Sha.html?hl=&id=Rr5-BwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "LV",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "LV",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.lv/books/download/Quicklet_on_Carlos_Ruiz_Zaf%C3%B3n_s_The_Sha-sample-epub.acsm?id=Rr5-BwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.lv/books/download/Quicklet_on_Carlos_Ruiz_Zaf%C3%B3n_s_The_Sha-sample-pdf.acsm?id=Rr5-BwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Rr5-BwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>Zafon</b>. Carlos Ruiz <b>Zafon</b> is the most translated contemporary Spanish author. The Shadow of the Wind has been translated into over 30 languages and has sold millions of copies. He initially got his start as a young adult author,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9FMsAQAAIAAJ",
+      "etag": "gCDlxwjq1xs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9FMsAQAAIAAJ",
+      "volumeInfo": {
+        "title": "The Barcelona of Carlos Ruiz Zafón",
+        "subtitle": "A Guide",
+        "authors": [
+          "Sergi Doria"
+        ],
+        "publishedDate": "2008",
+        "description": "Con la colaboración del propio Carlos Ruiz Zafón y del periodista Sergio Vila-Sanjuán, Sergi Dòria nos muestra los escenarios barceloneses de las novelas en un emocionante recorrido entre la ciudad real y la de la ficción, entre la actualidad y la época de la peripecia novelesca.A través de varias rutas dedicadas a los distintos barrios de la ciudad que aparecen en los libros de Zafón, accedemos a las calles, plazas o edificios en los que se ha inspirado o que ha plasmado el novelista. Gracias al comentarista, podemos conocer detalles ocultos o aproximarnos al contexto histórico que los originó, lo que enriquece nuestra lectura de las novelas y hace más interesante el paseo ciudadano.El Born, el Raval, el Barrio Gótico, el Pueblo Nuevo, el Ensanche, la Bonanova; los lugares en los que hemos conocido a Daniel Sempere, a David Martín y a Óscar Dray, donde se esconden El Cementerio de los Libros Olvidados o la librería de los Sempere, se revelan aquí al alcance de todos. Barceloneses y foráneos encontrarán en esta guía una forma de seguir en contacto con uno de los autores más populares del mundo.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105132929006"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 252,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9FMsAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9FMsAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.lv/books?id=9FMsAQAAIAAJ&q=zafon&dq=zafon&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.lv/books?id=9FMsAQAAIAAJ&dq=zafon&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Barcelona_of_Carlos_Ruiz_Zaf%C3%B3n.html?hl=&id=9FMsAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "LV",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "LV",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9FMsAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Con la colaboración del propio Carlos Ruiz Zafón y del periodista Sergio Vila-Sanjuán, Sergi Dòria nos muestra los escenarios barceloneses de las novelas en un emocionante recorrido entre la ciudad real y la de la ficción, entre la ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1cxDcAAACAAJ",
+      "etag": "p3d0mua6u5U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1cxDcAAACAAJ",
+      "volumeInfo": {
+        "title": "The Midnight Palace",
+        "authors": [
+          "Carlos Ruiz Zafón"
+        ],
+        "publishedDate": "2012",
+        "description": "From the author of THE SHADOW OF THE WIND, the haunting story of a secret society and a labyrinthine railway station with a dark past. 1916, Calcutta. A man pauses for breath outside the ruins of Jheeter's Gate station knowing he has only hours to live. Pursued by assassins, he must ensure the safety of two newborn twins, before disappearing into the night to meet his fate. 1932. Ben and his friends are due to leave the orphanage which has been their home for sixteen years. Tonight will be the final meeting of their secret club, in the old ruin they christened The Midnight Palace. Then Ben discovers he has a sister - and together they learn the tragic story of their past, as a shadowy figures lures them to a terrifying showdown in the ruins of Jheeter's Gate station.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "075382924X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780753829240"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Brothers and sisters"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1cxDcAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1cxDcAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.lv/books?id=1cxDcAAACAAJ&dq=zafon&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.lv/books?id=1cxDcAAACAAJ&dq=zafon&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Midnight_Palace.html?hl=&id=1cxDcAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "LV",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "LV",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1cxDcAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Then Ben discovers he has a sister and together they learn the tragic story of their past, as a shadowy figures lures them to a terrifying showdown in the ruins of Jheeter&#39;s Gate station."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Sk0fHsYX5w4C",
+      "etag": "eYQ+wMTFkBY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Sk0fHsYX5w4C",
+      "volumeInfo": {
+        "title": "The Prisoner of Heaven",
+        "subtitle": "The Cemetery of Forgotten Books 3",
+        "authors": [
+          "Carlos Ruiz Zafon"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2012-06-21",
+        "description": "THE PRISONER OF HEAVEN returns to the world of the Cemetery of Forgotten Books and the Sempere & Sons bookshop. It begins just before Christmas in Barcelona in 1957, one year after Daniel and Bea from THE SHADOW OF THE WIND have married. They now have a son, Julian, and are living with Daniel's father at Sempere & Sons. Fermin still works with them and is busy preparing for his wedding to Bernarda in the New Year. However something appears to be bothering him. Daniel is alone in the shop one morning when a mysterious figure with a pronounced limp enters. He spots one of their most precious volumes that is kept locked in a glass cabinet, a beautiful and unique illustrated edition of THE COUNT OF MONTE CRISTO. Despite the fact that the stranger seems to care little for books, he wants to buy this expensive edition. Then, to Daniel's surprise, the man inscribes the book with the words 'To Fermin Romero de Torres, who came back from the dead and who holds the key to the future'. This visit leads back to a story of imprisonment, betrayal and the return of a deadly rival ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780297868125"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0297868128"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 76,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.9.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Sk0fHsYX5w4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Sk0fHsYX5w4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.lv/books?id=Sk0fHsYX5w4C&printsec=frontcover&dq=zafon&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Sk0fHsYX5w4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Sk0fHsYX5w4C"
+      },
+      "saleInfo": {
+        "country": "LV",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 6.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Sk0fHsYX5w4C&rdid=book-Sk0fHsYX5w4C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "LV",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.lv/books/download/The_Prisoner_of_Heaven-sample-epub.acsm?id=Sk0fHsYX5w4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Sk0fHsYX5w4C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Despite the fact that the stranger seems to care little for books, he wants to buy this expensive edition."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HU0iOB0CLxEC",
+      "etag": "7dGCZBfZ0Tc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HU0iOB0CLxEC",
+      "volumeInfo": {
+        "title": "The Gothic in Contemporary Literature and Popular Culture",
+        "subtitle": "Pop Goth",
+        "authors": [
+          "Justin Edwards",
+          "Agnieszka Soltysik Monnet"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2013-02-15",
+        "description": "This interdisciplinary collection brings together world leaders in Gothic Studies, offering dynamic new readings on popular Gothic cultural productions from the last decade. Topics covered include, but are not limited to: contemporary High Street Goth/ic fashion, Gothic performance and art festivals, Gothic popular fiction from Twilight to Shadow of the Wind, Goth/ic popular music, Goth/ic on TV and film, new trends like Steampunk, well-known icons Batman and Lady Gaga, and theorizations of popular Gothic monsters (from zombies and vampires to werewolves and ghosts) in an age of terror/ism.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781136337871"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1136337873"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 212,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "4.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HU0iOB0CLxEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HU0iOB0CLxEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.lv/books?id=HU0iOB0CLxEC&pg=PA79&dq=zafon&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HU0iOB0CLxEC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HU0iOB0CLxEC"
+      },
+      "saleInfo": {
+        "country": "LV",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 49.34,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 34.54,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=HU0iOB0CLxEC&rdid=book-HU0iOB0CLxEC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 49340000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 34540000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "LV",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.lv/books/download/The_Gothic_in_Contemporary_Literature_an-sample-epub.acsm?id=HU0iOB0CLxEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.lv/books/download/The_Gothic_in_Contemporary_Literature_an-sample-pdf.acsm?id=HU0iOB0CLxEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HU0iOB0CLxEC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>Zafon&#39;s</b> defence when queried about his wet and misty world has usually been that he wanted to get past the touristic facade of Barcelona. This excerpt from an interview with Steve Porter is typical: “TMO: That atmosphere is the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vTBsAgAAQBAJ",
+      "etag": "835Jw2CmeqM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vTBsAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Das Barcelona von Carlos Ruiz Zafón",
+        "subtitle": "Spaziergänge durch eine erzählte Stadt",
+        "authors": [
+          "Sergi Doria"
+        ],
+        "publisher": "S. Fischer Verlag",
+        "publishedDate": "2013-03-21",
+        "description": "Eine wunderbare Reise durch das magische Barcelona des Carlos Ruiz Zafón. Zwischen Carlos Ruiz Zafón und der »alten, trüben, dunklen Seele« seiner Heimatstadt Barcelona besteht eine ganz besondere Verbindung. Als Kind spielte er in Gaudís verwunschener Kathedrale Sagrada Familia, im Villenviertel Sarriá besuchte er eine prachtvolle Jesuitenschule, und in den Ferien übernahm der junge Zafón Botengänge für seinen Vater, die ihn durch die ganze Stadt führten. ›Der Schatten des Windes‹, ›Das Spiel des Engels‹, ›Der Gefangene des Himmels‹ und ›Marina‹ leben von den Geheimnissen, den Leidenschaften und der Magie, die Carlos Ruiz Zafón seiner Heimat abgelauscht hat. Sergi Dorias Buch begibt sich an die Schauplätze der Romane und erkundet ihre realen Vorbilder und verborgenen Bezüge. Ein Muss für alle Fans.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783104026268"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3104026262"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vTBsAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vTBsAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.lv/books?id=vTBsAgAAQBAJ&printsec=frontcover&dq=zafon&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=vTBsAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vTBsAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "LV",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=vTBsAgAAQBAJ&rdid=book-vTBsAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "LV",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.lv/books/download/Das_Barcelona_von_Carlos_Ruiz_Zaf%C3%B3n-sample-epub.acsm?id=vTBsAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.lv/books/download/Das_Barcelona_von_Carlos_Ruiz_Zaf%C3%B3n-sample-pdf.acsm?id=vTBsAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vTBsAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Eine wunderbare Reise durch das magische Barcelona des Carlos Ruiz Zafón. Zwischen Carlos Ruiz Zafón und der »alten, trüben, dunklen Seele« seiner Heimatstadt Barcelona besteht eine ganz besondere Verbindung."
+      }
+    }
+  ]
+}
