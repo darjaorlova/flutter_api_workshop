@@ -12,7 +12,13 @@ class BooksApiClient {
   }
 
   Future<List<BookResponse>> getBooks({String query = ''}) async {
-    final response = await _dio.get('volumes?q=$query&maxResults=40');
+    final response = await _dio.get(
+      'volumes',
+      queryParameters: {
+        'q': query,
+        'maxResults': 40,
+      },
+    );
     final items = (response.data['items']) as List<dynamic>;
     return items
         .map<BookResponse>((item) => BookResponse.fromJson(item))

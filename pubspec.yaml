@@ -30,9 +30,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_html: ^2.2.1
   dio: ^5.0.2
   json_annotation: ^4.8.0
-  flutter_html: ^2.2.1
   equatable: ^2.0.5
 
   # The following adds the Cupertino Icons font to your application.
