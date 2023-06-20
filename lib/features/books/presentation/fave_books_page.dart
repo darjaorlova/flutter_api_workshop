@@ -49,7 +49,6 @@ class _FaveBooksPageState extends State<FaveBooksPage> {
             FutureBuilder<List<Book>>(
               future: _booksFuture,
               builder: (context, snapshot) {
-                print(snapshot.error);
                 if (snapshot.hasError) {
                   return const SliverFillRemaining(
                     child: Center(
