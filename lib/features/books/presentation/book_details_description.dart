@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_api_workshop/design_system/app_theme.dart';
-import 'package:flutter_html/flutter_html.dart';
 
 class BookDetailsDescription extends StatelessWidget {
   final String description;
@@ -12,12 +11,12 @@ class BookDetailsDescription extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final bodyStyle = Style(
+/*    final bodyStyle = Style(
       color: AppTheme.grayDark,
       fontFamily: AppTheme.accentFontFamily,
       fontWeight: FontWeight.w400,
       fontSize: const FontSize(16),
-    );
+    );*/
 
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
@@ -42,13 +41,22 @@ class BookDetailsDescription extends StatelessWidget {
             left: 8,
             right: 8,
           ),
-          child: Html(
+          child: Text(
+            description,
+            style: const TextStyle(
+              color: AppTheme.grayDark,
+              fontFamily: AppTheme.accentFontFamily,
+              fontWeight: FontWeight.w400,
+              fontSize: 16,
+            ),
+          ) /*Html(
             data: description,
             style: {
               'body': bodyStyle,
               'b': bodyStyle,
             },
-          ),
+          )*/
+          ,
         ),
       ],
     );

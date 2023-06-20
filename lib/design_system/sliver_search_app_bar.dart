@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_api_workshop/design_system/search_bar.dart';
+import 'package:flutter_api_workshop/design_system/app_search_bar.dart';
 
 class SliverSearchAppBar extends SliverPersistentHeaderDelegate {
   final TextEditingController controller;
@@ -15,7 +15,7 @@ class SliverSearchAppBar extends SliverPersistentHeaderDelegate {
     double shrinkOffset,
     bool overlapsContent,
   ) =>
-      SearchBar(controller: controller);
+      AppSearchBar(controller: controller);
 
   @override
   double get maxExtent => 108;

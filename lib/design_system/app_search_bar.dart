@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_api_workshop/design_system/app_theme.dart';
 
-class SearchBar extends StatelessWidget {
+class AppSearchBar extends StatelessWidget {
   final TextEditingController controller;
   final accent = AppTheme.accentColor;
   final grey = AppTheme.grayMedium;
 
-  const SearchBar({
+  const AppSearchBar({
     Key? key,
     required this.controller,
   }) : super(key: key);
